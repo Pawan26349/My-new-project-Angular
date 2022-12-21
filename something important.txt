@@ -1,0 +1,2 @@
+ng build --configuration production  
+It is the command used to configure the whole angular project files into a bunch with their synchronisation.
